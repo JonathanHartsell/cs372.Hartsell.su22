@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/jolaurenweaver/Desktop/Summer 2022/cs372.Hartsell.su22/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/jolaurenweaver/Desktop/Summer 2022/cs372.Hartsell.su22/StarterCode/apps/apptemplate/../../include\" -I\"/Users/jolaurenweaver/Desktop/Summer 2022/cs372.Hartsell.su22/StarterCode/apps/apptemplate/include\" -I\"/Users/jolaurenweaver/Desktop/Summer 2022/cs372.Hartsell.su22/StarterCode/apps/apptemplate/source\" -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11 -o CMakeFiles/assignment01.dir/source/assignment01.cpp.o -c \"/Users/jolaurenweaver/Desktop/Summer 2022/cs372.Hartsell.su22/StarterCode/apps/apptemplate/source/assignment01.cpp\"",
+  "file": "/Users/jolaurenweaver/Desktop/Summer 2022/cs372.Hartsell.su22/StarterCode/apps/apptemplate/source/assignment01.cpp"
+},
+{
+  "directory": "/Users/jolaurenweaver/Desktop/Summer 2022/cs372.Hartsell.su22/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/jolaurenweaver/Desktop/Summer 2022/cs372.Hartsell.su22/StarterCode/apps/apptemplate/../../include\" -I\"/Users/jolaurenweaver/Desktop/Summer 2022/cs372.Hartsell.su22/StarterCode/apps/apptemplate/include\" -I\"/Users/jolaurenweaver/Desktop/Summer 2022/cs372.Hartsell.su22/StarterCode/apps/apptemplate/source\" -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11 -o CMakeFiles/assignment01.dir/source/assignment1Problem1.cpp.o -c \"/Users/jolaurenweaver/Desktop/Summer 2022/cs372.Hartsell.su22/StarterCode/apps/apptemplate/source/assignment1Problem1.cpp\"",
+  "file": "/Users/jolaurenweaver/Desktop/Summer 2022/cs372.Hartsell.su22/StarterCode/apps/apptemplate/source/assignment1Problem1.cpp"
+}
+]
