@@ -1,3 +1,0 @@
-/Users/jolaurenweaver/Desktop/Summer 2022/cs372.Hartsell.su22/build/CMakeFiles/assignment01.dir
-/Users/jolaurenweaver/Desktop/Summer 2022/cs372.Hartsell.su22/build/CMakeFiles/edit_cache.dir
-/Users/jolaurenweaver/Desktop/Summer 2022/cs372.Hartsell.su22/build/CMakeFiles/rebuild_cache.dir
