@@ -142,7 +142,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=assignment01
+CMAKE_PROJECT_NAME:STATIC=assignment1P3
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib
@@ -214,6 +214,15 @@ assignment01_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 assignment01_SOURCE_DIR:STATIC=/Users/jolaurenweaver/Desktop/Summer 2022/cs372.Hartsell.su22/StarterCode/apps/apptemplate
+
+//Value Computed by CMake
+assignment1P3_BINARY_DIR:STATIC=/Users/jolaurenweaver/Desktop/Summer 2022/cs372.Hartsell.su22/build
+
+//Value Computed by CMake
+assignment1P3_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+assignment1P3_SOURCE_DIR:STATIC=/Users/jolaurenweaver/Desktop/Summer 2022/cs372.Hartsell.su22/StarterCode/apps/apptemplate
 
 
 ########################

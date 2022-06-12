@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 2.8)
 
 #set the project name
-project(assignment01)
+project(assignment1P3)
 
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
