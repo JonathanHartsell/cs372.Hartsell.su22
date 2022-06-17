@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 2.8)
 
 #set the project name
-project(assignment1P3)
+project(listtest)
 
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
@@ -17,6 +17,8 @@ file(GLOB all_SRCS
   "${PROJECT_SOURCE_DIR}/soruce/*.cpp"
   )
 
+
 #add the executable
-add_executable(Asg1P3 Asg1P3.cpp ${all_SRCS})
+add_executable(listtest listtest.cpp ${all_SRCS})
+
 
