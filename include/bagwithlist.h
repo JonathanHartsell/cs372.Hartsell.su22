@@ -36,6 +36,6 @@ public:
     return bagCount;
   }
 private:
-  vector<Thing> bagContents;
+  List<Thing> bagContents;
   int bagSize = 0;
 };
